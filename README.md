@@ -2,10 +2,20 @@
 
 In this project you will be able to vote for the following options:
 
-1)  Who is the world's smallest DT?
-2)  What is the best selection in the world?
-3)  Who is the best soccer league in the world?
-4)  Who is the best soccer player?
-5)  What is the best soccer team?
+	 Who is the world's smallest DT?
+	 What is the best selection in the world?
+	 Who is the best soccer league in the world?
+	 Who is the best soccer player?
+	 What is the best soccer team?
 
 Enter the URL and there you will find the different options to vote.  
+
+#### Requirements to use the app:
+
+1) It is necessary to have python3 to run the program https://www.python.org/downloads/|
+
+2) Have django installed .
+- To install django we use:  pip insatall django
+
+3) Clone this repository with:
+- git clone  https://github.com/DaniMendozax/Data_base.git 
