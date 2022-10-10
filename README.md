@@ -19,3 +19,9 @@ Enter the URL and there you will find the different options to vote.
 
 3) Clone this repository with:
 - git clone  https://github.com/DaniMendozax/Data_base.git 
+
+4) enter the repository:
+- cd django1app 
+
+5) Open url with:
+-  py manage.py runserver 
